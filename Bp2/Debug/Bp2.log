@@ -1,0 +1,10 @@
+﻿  Bp2.cpp
+C:\Users\Aleksa\source\repos\Bp2\Bp2\Bp2.cpp(184,44): warning C4101: 'pInputTxtFile': unreferenced local variable
+C:\Users\Aleksa\source\repos\Bp2\Bp2\Bp2.cpp(184,24): warning C4101: 'pInputSerialFile': unreferenced local variable
+C:\Users\Aleksa\source\repos\Bp2\Bp2\Bp2.cpp(306,8): warning C4101: 'n': unreferenced local variable
+C:\Users\Aleksa\source\repos\Bp2\Bp2\Bp2.cpp(445,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aleksa\source\repos\Bp2\Bp2\Bp2.cpp(796,101): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Aleksa\source\repos\Bp2\Bp2\Bp2.cpp(797,63): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Aleksa\source\repos\Bp2\Bp2\Bp2.cpp(816,54): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Aleksa\source\repos\Bp2\Bp2\Bp2.cpp(816,121): warning C4018: '>=': signed/unsigned mismatch
+  Bp2.vcxproj -> C:\Users\Aleksa\source\repos\Bp2\Debug\Bp2.exe
